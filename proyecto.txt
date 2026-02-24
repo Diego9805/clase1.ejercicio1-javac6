@@ -3,5 +3,3 @@ esto es un archivo inicial.
 prueba de cargue
 
 echo "Cambio desde rama" >> index.txt
-
-readme.md
